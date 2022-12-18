@@ -1,0 +1,65 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2027
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "xs.db", "xs.db\xs.db.csproj", "{3AF0E617-34D2-4F3B-8B63-349BC4FA7549}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "xs.db.test", "xs.db.test\xs.db.test.csproj", "{1F1402CB-BA67-4A37-A9B7-973FBAEC9095}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "xs.db.custom", "xs.db.custom\xs.db.custom.csproj", "{54F3768F-1700-4FA7-9016-47DEABE12CA0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|x86 = Release|x86
+		Description = 
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3AF0E617-34D2-4F3B-8B63-349BC4FA7549}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3AF0E617-34D2-4F3B-8B63-349BC4FA7549}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3AF0E617-34D2-4F3B-8B63-349BC4FA7549}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{3AF0E617-34D2-4F3B-8B63-349BC4FA7549}.Debug|x86.Build.0 = Debug|Any CPU
+		{3AF0E617-34D2-4F3B-8B63-349BC4FA7549}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3AF0E617-34D2-4F3B-8B63-349BC4FA7549}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3AF0E617-34D2-4F3B-8B63-349BC4FA7549}.Release|x86.ActiveCfg = Release|Any CPU
+		{3AF0E617-34D2-4F3B-8B63-349BC4FA7549}.Release|x86.Build.0 = Release|Any CPU
+		{1F1402CB-BA67-4A37-A9B7-973FBAEC9095}.Debug|Any CPU.ActiveCfg = Debug|x86
+		{1F1402CB-BA67-4A37-A9B7-973FBAEC9095}.Debug|x86.ActiveCfg = Debug|x86
+		{1F1402CB-BA67-4A37-A9B7-973FBAEC9095}.Debug|x86.Build.0 = Debug|x86
+		{1F1402CB-BA67-4A37-A9B7-973FBAEC9095}.Release|Any CPU.ActiveCfg = Release|x86
+		{1F1402CB-BA67-4A37-A9B7-973FBAEC9095}.Release|x86.ActiveCfg = Release|x86
+		{1F1402CB-BA67-4A37-A9B7-973FBAEC9095}.Release|x86.Build.0 = Release|x86
+		{54F3768F-1700-4FA7-9016-47DEABE12CA0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{54F3768F-1700-4FA7-9016-47DEABE12CA0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{54F3768F-1700-4FA7-9016-47DEABE12CA0}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{54F3768F-1700-4FA7-9016-47DEABE12CA0}.Debug|x86.Build.0 = Debug|Any CPU
+		{54F3768F-1700-4FA7-9016-47DEABE12CA0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{54F3768F-1700-4FA7-9016-47DEABE12CA0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{54F3768F-1700-4FA7-9016-47DEABE12CA0}.Release|x86.ActiveCfg = Release|Any CPU
+		{54F3768F-1700-4FA7-9016-47DEABE12CA0}.Release|x86.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {267B6539-93BC-4B27-88DD-5122E22B9875}
+	EndGlobalSection
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 4
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = https://mutlutan.visualstudio.com/
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = xs.db\\xs.db.csproj
+		SccProjectName1 = xs.db
+		SccLocalPath1 = xs.db
+		SccProjectUniqueName2 = xs.db.test\\xs.db.test.csproj
+		SccProjectName2 = xs.db.test
+		SccLocalPath2 = xs.db.test
+		SccProjectUniqueName3 = xs.db.custom\\xs.db.custom.csproj
+		SccProjectName3 = xs.db.custom
+		SccLocalPath3 = xs.db.custom
+	EndGlobalSection
+EndGlobal
